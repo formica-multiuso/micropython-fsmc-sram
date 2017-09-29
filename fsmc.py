@@ -3,7 +3,7 @@ import utime
 
 ''' 
 FSMC EXTERNAL MEMORY CLASS: 16bit SRAM
-This class is designed for the STM32F439xx
+This class is designed for the IS61WV102416. Producer: ISSI
 Tested on STM32F439ZIT6
 
 Copyleft, Roberto Marino 2017 - formica@member.fsf.org
